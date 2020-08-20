@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="pics">
+    <file>bg/techno-bg.jpg</file>
+    <file>bg/IMG_4844.jpg</file>
+    <file>bg/img_4839 (2).png</file>
+    <file>bg/IMG_4839.png</file>
+    <file>bg/emaite.png</file>
+    <file>bg/IMG_4839.png</file>
+    <file>bg/TITLE.png</file>
+    <file>LinkedIn-512.png</file>
+    <file>fb.png</file>
+    <file>bg/img_4839 (1).png</file>
+    <file>certificate.jpg</file>
+    <file>GitHub.png</file>
+    <file>certificate.jpg</file>
+  </qresource>
+</RCC>
